@@ -1,3 +1,5 @@
+theme: minima
+
 name: Step 2, Configure your site
 
 # This step triggers after the learner update their Pages config file.
